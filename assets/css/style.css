@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+#root {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+button {
+    padding: 5px;
+    cursor: pointer;
+}
+
+.img {
+    width: 30%;
+    height: 250px;
+    margin: 30px auto;
+    background-image: url(/img/img.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
